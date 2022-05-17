@@ -1,0 +1,5 @@
+package cde
+
+func cde() {
+
+}
